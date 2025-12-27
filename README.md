@@ -1,10 +1,27 @@
 # PFDA
-Project, coursework and practice files from 25-26: 4369 -- PROGRAMMING FOR DATA ANALYTICS
+## 1. Overall Description
+This repository contains project, coursework and practice files from 25-26: 4369 -- PROGRAMMING FOR DATA ANALYTICS
 
-### Folder Structure
-1) Weekly assignments are contained in the [assignments](https://github.com/EmmaChubbCode/pfda/tree/main/assignments) folder.
-2) My final project is contained in the [project](https://github.com/EmmaChubbCode/pfda/tree/main/project) folder
-3) The folder titled [my-work](https://github.com/EmmaChubbCode/pfda/tree/main/my-work) is for labs and other files unelated to graded materials. 
+## 2. Repository Structure 📂
+
+```plaintext
+├── assignments/          # Directory for weekly assignments
+├── my-work/              # Directory for any practice files or lab work.
+├── project/              # This director contains the notebook and data file related to my final project.
+```
+## 3. Installation ⚙️
+
+### Clone the repository:
+```bash
+git clone https://github.com/EmmaChubbCode/pfda.git
+cd computer-infrastructure
+```
+
+## 4. Technologies Used 💻
+- **Python 3**
+- **IPython/Jupyter Notebook** for development and write up
+- **pandas** for data manipulation
+- **seaborn & matplotlib** for visualization
  
-## Licensing, Authors, and Acknowledgements
-Credit to the European Social Survey (ESS) for providing the data. Please respect the conditions of use published by the ESS when working with ESS data.
+## 5. Licensing, Authors, and Acknowledgements
+Credit to the [European Social Survey (ESS)](https://ess.sikt.no/en/) for providing the data. Please respect the conditions of use published by the ESS when working with ESS data.
